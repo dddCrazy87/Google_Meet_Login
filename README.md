@@ -1,5 +1,5 @@
-# google_meet_login
-一個能夠在特定時間一到，自動登入google meet的工具。
+# Google_Meet_Login
+一個能夠在特定時間一到，自動登入 Google Meet 的工具，明道高中專用。
 
 ### 使用方法
 1. 建立一個user.txt，把學校的gmail帳號放密碼寫在前兩行，學校帳號的帳號密碼寫在後兩行。
